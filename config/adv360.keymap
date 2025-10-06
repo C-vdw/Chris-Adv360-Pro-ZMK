@@ -27,11 +27,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp EQUAL  &kp N1     &kp N2    &kp N3    &kp N4     &kp N5  &mo 1                                                               &mo 3      &kp N6  &kp N7  &kp N8         &kp N9     &kp N0            &kp MINUS
-&kp TAB    &kp Q      &kp W     &kp Y     &kp P      &kp B   &none                                                               &none      &kp Z   &kp F   &kp O          &kp U      &kp SINGLE_QUOTE  &kp BSLH
-&kp ESC    &kp C      &kp R     &kp S     &kp T      &kp G   &none     &kp HOME  &kp END               &kp PG_UP  &kp PAGE_DOWN  &none      &kp M   &kp N   &kp E          &kp I      &kp A             &kp SLASH
-&kp LSHFT  &kp L      &kp K     &kp V     &kp D      &kp J                       &kp LALT              &kp PG_DN                            &kp X   &kp H   &kp SEMICOLON  &kp COMMA  &kp PERIOD        &kp RSHFT
-&mo 2      &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT          &kp BSPC  &kp DEL   &kp LEFT_CONTROL      &kp LGUI   &kp ENTER      &kp SPACE          &kp UP  &kp DOWN       &kp LBKT   &kp RBKT          &mo 2
+&kp EQUAL  &kp N1     &kp N2    &kp N3            &kp N4             &kp N5  &mo 1                                                               &mo 3      &kp N6  &kp N7          &kp N8         &kp N9        &kp N0            &kp MINUS
+&kp TAB    &kp Q      &kp W     &kp Y             &kp P              &kp B   &none                                                               &none      &kp Z   &kp F           &kp O          &kp U         &kp SINGLE_QUOTE  &kp BSLH
+&kp ESC    &kp C      &kp R     &kp S             &kp T              &kp G   &none     &kp HOME  &kp END               &kp PG_UP  &kp PAGE_DOWN  &none      &kp M   &kp N           &kp E          &kp I         &kp A             &kp SLASH
+&kp LSHFT  &kp L      &kp K     &kp V             &kp D              &kp J                       &kp LALT              &kp PG_DN                            &kp X   &kp H           &kp SEMICOLON  &kp COMMA     &kp PERIOD        &kp RSHFT
+&mo 2      &kp GRAVE  &kp CAPS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET          &kp BSPC  &kp DEL   &kp LEFT_CONTROL      &kp LGUI   &kp ENTER      &kp SPACE          &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT_ARROW   &mo 2
             >;
         };
 
